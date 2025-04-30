@@ -1,6 +1,8 @@
 Welcome to my Github page!
 
-My goal is to learn new things everyday
+Steve Jobs –
+
+“Your time is limited, so don’t waste it living someone else’s life.”
 
 ```yaml
 name: Charles Hsu
