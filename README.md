@@ -3,7 +3,7 @@ Welcome to my Github page!
 ```yaml
 name: Charles Hsu
 located_in: California, US
-from: Taiwan
+from: United States
 job: Sales Analyst/Data Analyst
 education: ["Bachelor's in Business Economics" "Computer Science"]
 company: Gigabyte USA
