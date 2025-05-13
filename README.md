@@ -13,4 +13,5 @@ currently_learning: ["Web3", "API"]
 hobbies: ["Basketball","Golf", "Cinema", "Competitive Gaming"]
 
 “Your time is limited, so don’t waste it living someone else’s life.” – Steve Jobs
+Profile link: https://www.charleshsu.net/
 ```
